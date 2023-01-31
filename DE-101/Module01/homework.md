@@ -11,7 +11,7 @@
 
 ## Решение:
 
-![] (./mages/Архитектура Аналитического Решения.PNG)
+![image](./mages/Архитектура Аналитического Решения.PNG)
 
 ***
 # Задание 2. Аналитика в Excel
@@ -72,4 +72,4 @@ Sales per region
 
 ## Решение:
 
-![] (./images/Dashboard.PNG)
+![image](./images/Dashboard.PNG)
