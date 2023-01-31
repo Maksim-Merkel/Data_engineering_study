@@ -10,7 +10,8 @@
     4. Необходимо использовать draw.io, Microsoft Visio Studio, Power Point или инструмент на выбор.
 
 ## Решение:
-/images/Архитектура Аналитического Решения.PNG
+
+![] (/images/Архитектура Аналитического Решения.PNG)
 
 ***
 # Задание 2. Аналитика в Excel
@@ -70,4 +71,5 @@ Sales per region
 
 
 ## Решение:
-/images/Dashboard.PNG
+
+![] (/images/Dashboard.PNG)
